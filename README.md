@@ -34,7 +34,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-![WhatsApp Image 2023-06-22 at 00 33 23](https://github.com/henriquemtn/chat-app/assets/92762031/4207883e-74c6-4400-b647-c4c44330c141)
 
 ### `npm run eject`
 
