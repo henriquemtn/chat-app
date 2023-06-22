@@ -1,3 +1,9 @@
+
+![WhatsApp Image 2023-06-22 at 00 33 23](https://github.com/henriquemtn/chat-app/assets/92762031/7f91c170-91f3-4ac8-ac0b-3f14a8a57830)
+![WhatsApp Image 2023-06-22 at 00 33 07](https://github.com/henriquemtn/chat-app/assets/92762031/c1b59129-0d33-455c-ae18-aecd83246da8)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,6 +34,7 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![WhatsApp Image 2023-06-22 at 00 33 23](https://github.com/henriquemtn/chat-app/assets/92762031/4207883e-74c6-4400-b647-c4c44330c141)
 
 ### `npm run eject`
 
