@@ -1,3 +1,9 @@
+Chat-App
+#### Video Demo:  <[URL HERE](https://www.youtube.com/watch?v=33ikTqjO1rg)>
+#### Description: A real time chat app made with React and Firebase
+
+
+
 
 ![WhatsApp Image 2023-06-22 at 00 33 23](https://github.com/henriquemtn/chat-app/assets/92762031/7f91c170-91f3-4ac8-ac0b-3f14a8a57830)
 ![WhatsApp Image 2023-06-22 at 00 33 07](https://github.com/henriquemtn/chat-app/assets/92762031/c1b59129-0d33-455c-ae18-aecd83246da8)
